@@ -1,0 +1,6 @@
+C:\Users\Санжар\source\repos\tenth_homework\tenth_homework\bin\Debug\tenth_homework.exe
+C:\Users\Санжар\source\repos\tenth_homework\tenth_homework\bin\Debug\tenth_homework.pdb
+C:\Users\Санжар\source\repos\tenth_homework\tenth_homework\obj\Debug\tenth_homework.csprojResolveAssemblyReference.cache
+C:\Users\Санжар\source\repos\tenth_homework\tenth_homework\obj\Debug\tenth_homework.csproj.CoreCompileInputs.cache
+C:\Users\Санжар\source\repos\tenth_homework\tenth_homework\obj\Debug\tenth_homework.exe
+C:\Users\Санжар\source\repos\tenth_homework\tenth_homework\obj\Debug\tenth_homework.pdb
